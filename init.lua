@@ -1,7 +1,3 @@
--- Do aliase stuff
-local modpath = minetest.get_modpath("halloween")
-dofile(modpath .. "/aliases.lua")
-
 -- Costumes
 -- Original Skin Texture Credit: Original skin authors (whoever they may be)
 
