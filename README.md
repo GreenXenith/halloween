@@ -28,6 +28,7 @@ Depends on Stu's 3d_armor, TenPlus1's farming_redo, dye, and default.
 	* Vampire  
 	* Wearwolf  
 	* Pumpkin Mask  
+	* Cat Mask  
 	* Halloween Hoodie  
 	
 **IMPORTANT:** Costumes are not craftable, and are therefore only obtainable  
