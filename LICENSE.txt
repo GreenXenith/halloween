@@ -1,4 +1,4 @@
-MIT Copyright 2017 GreenDimond
+MIT Copyright 2018 GreenDimond
 
 Permission is hereby granted, free of charge, to any person obtaining a 
 copy of this software and associated documentation files (the "Software"), 
