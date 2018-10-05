@@ -7,7 +7,8 @@
 	
 Adds Halloween costumes and treats.  
 
-Depends on Stu's 3d_armor, TenPlus1's farming_redo, dye, and default.  
+Depends on Stu's 3d_armor (optional, but costumes wont register without it),  
+TenPlus1's farming_redo, dye, and default.  
 
 * **Candie Stuffs**:  
 	* Generic Halloween Candy  
@@ -17,13 +18,19 @@ Depends on Stu's 3d_armor, TenPlus1's farming_redo, dye, and default.
 	* Caramelized Sugar (for crafting)  
 	
 * **Costumes**:  
+	* Dark Unicorn  
 	* Devil  
 	* Female Devil  
 	* Dinosaur  
 	* Frankenstein (Frankenstein's Monster)  
 	* Ghost  
+	* Harry Potter  
 	* Killer  
-	* Glow-in-the-Dark Skeleton  
+	* Glow-in-the-Dark Skeleton (actually glows in 5.0+)  
+	* Grim Reaper  
+	* Pink Dinosaur  
+	* Pumpkin Monster  
+	* Totoro  
 	* Unicorn
 	* Vampire  
 	* Wearwolf  
